@@ -1,12 +1,6 @@
-#  Mhmd Ebrahim 
+# Mhmd Ebrahim 
 
 **CS Student | Aspiring iOS Developer | Competitive Programmer**
-
----
-
-### 👋 Welcome!
-
-I'm Mohamed, a passionate computer science student with a flair for competitive programming and iOS development. I thrive on exploring the vast tech landscape and turning innovative ideas into reality.
 
 ---
 
@@ -31,6 +25,5 @@ Currently seeking an internship that will offer new challenges and opportunities
 - **Core Competencies**: Problem-Solving, Competitive Programming, Data Structures, Algorithms, OOP
 
 ---
-
 
 🚀 Ready for the next big challenge!
